@@ -1,0 +1,4 @@
+id,invoice_no,date,client_name,product,quantity,unit_price,subtotal,tax,total
+1,INV-00001,2025-07-11 11:13:37,Akila,Medicine,10,200.0,2000.0,360.0,2360.0
+2,INV-00002,2025-07-11 11:14:25,Barath,Grocery,10,300.0,3000.0,540.0,3540.0
+3,INV-00003,2025-07-11 11:15:09,Barath,Grocery,10,300.0,3000.0,540.0,3540.0
